@@ -1,0 +1,55 @@
+.case-converter-container {
+    width: 50%;
+    margin: 20px auto 0;
+    text-align: center;
+  }
+  
+  .input-textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .convert-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .convert-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .result p {
+    margin-top: 20px;
+    text-align: left;
+    color: black;
+  }
+  
+  
+  .result-box {
+    font-size: 18px;
+    border: 1px solid #000;
+    padding: 10px;
+    border-radius: 5px;
+  
+    text-align: left;
+   
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+  }
+  
+  .text-converter,
+  .result {
+    margin-top: 20px;
+  }
+  
+  
+  
